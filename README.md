@@ -1,16 +1,47 @@
-## Hi there 👋
+# K-Tanaka | Data Analyst / Forecasting Engineer
 
-<!--
-**K-Tanaka8/K-Tanaka8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me / 自己紹介
 
-Here are some ideas to get you started:
+金融分野での実務経験を持つデータアナリストです。
+証券アナリスト資格（CMA）を保有し、
+時系列予測・売上予測・EDAを専門としています。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a data analyst with professional experience in the financial industry.
+I hold a CMA (Certified Member Analyst) qualification and specialize
+in time series forecasting, demand prediction, and EDA.
+
+---
+
+## 🔧 Skills / スキル
+
+| Category | Tools |
+|----------|-------|
+| Language | Python |
+| ML Model | LightGBM, Prophet |
+| Analysis | Time Series, EDA, Feature Engineering |
+| Data | POS Data, Mobile Location Data, Financial Data |
+| Libs | pandas, numpy, matplotlib, seaborn, scikit-learn |
+
+---
+
+## 📂 Featured Projects / 主なプロジェクト
+
+### 🔹 [Rossmann Sales Forecasting (LightGBM)](https://github.com/K-Tanaka8/rossmann-sales-forecasting-lightgbm)
+- Kaggle Rossmann Store Salesデータを用いた需要予測
+- Expanding Window CVによるデータリークのない検証
+- ベースライン比 **64.1%改善**（MASE: 0.359）
+
+### 🔹 [Time Series EDA](https://github.com/K-Tanaka8/lightgbm_demand_forecast)
+- 時系列データの探索的分析（EDA）サンプル
+- ACF/PACF・STL分解・ADF検定まで網羅
+
+---
+
+## 💼 Background / 経歴
+
+- 金融機関での実務経験（証券アナリスト資格保有）
+- POSデータ・携帯位置情報を活用した予測モデル開発経験
+- Python（pandas, LightGBM, Prophet）による時系列分析
+
+---
+
