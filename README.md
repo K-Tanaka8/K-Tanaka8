@@ -10,19 +10,15 @@ I am a data analyst with professional experience in the financial industry.
 I hold a CMA (Certified Member Analyst) qualification and specialize
 in time series forecasting, demand prediction, and EDA.
 
----
-
 ## 🔧 Skills / スキル
 
 | Category | Tools |
 |----------|-------|
 | Language | Python |
-| ML Model | LightGBM, Prophet |
-| Analysis | Time Series, EDA, Feature Engineering |
+| ML Model | LightGBM, Prophet, XGBoost |
+| Analysis | Time Series, EDA, Feature Engineering, Stock Price Prediction |
 | Data | POS Data, Mobile Location Data, Financial Data |
-| Libs | pandas, numpy, matplotlib, seaborn, scikit-learn |
-
----
+| Libs | pandas, numpy, matplotlib, seaborn, scikit-learn, lightgbm, xgboost, prophet |
 
 ## 📂 Featured Projects / 主なプロジェクト
 
