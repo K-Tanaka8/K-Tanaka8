@@ -27,7 +27,7 @@ in time series forecasting, demand prediction, and EDA.
 - Expanding Window CVによるデータリークのない検証
 - ベースライン比 **64.1%改善**（MASE: 0.359）
 
-### 🔹 [Time Series EDA](https://github.com/K-Tanaka8/lightgbm_demand_forecast)
+### 🔹 [Time Series EDA](https://github.com/K-Tanaka8/time_series_eda_demand_forecast)
 - 時系列データの探索的分析（EDA）サンプル
 - ACF/PACF・STL分解・ADF検定まで網羅
 
